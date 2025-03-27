@@ -38,6 +38,7 @@ function startChat() {
                 }, 
                 footer: {
                     isShow: false,
+                    
                 }
             },
         });
