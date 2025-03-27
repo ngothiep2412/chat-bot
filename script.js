@@ -36,8 +36,10 @@ function startChat() {
                 asstBtn: { 
                   isNeed: true, 
                 }, 
-        
-              },
+                footer: {
+                    isShow: false,
+                }
+            },
         });
     }
 } 
